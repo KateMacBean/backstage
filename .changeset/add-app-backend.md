@@ -10,7 +10,7 @@ As a part of installing the `app-backend` plugin, the below changes where made. 
 
 ### Installing the `app-backend` plugin in the backend
 
-First, install the `@backstage/plugin-app-backend` plugin package in your backend. These changes where made for `v0.3.0` of the plugin, and the installation process might change in the future. Run the following from the root of the repo:
+First, install the `@backstage/plugin-app-backend` plugin package in your backend. These changes were made for version `0.3.0` of the plugin, and the installation process might change in the future. Run the following from the root of the repo:
 
 ```bash
 cd packages/backend

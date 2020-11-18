@@ -1,5 +1,15 @@
 # @backstage/plugin-techdocs
 
+## 0.2.2
+
+### Patch Changes
+
+- 1722cb53c: Added configuration schema
+- Updated dependencies [1722cb53c]
+  - @backstage/core@0.3.1
+  - @backstage/test-utils@0.1.3
+  - @backstage/plugin-catalog@0.2.2
+
 ## 0.2.1
 
 ### Patch Changes

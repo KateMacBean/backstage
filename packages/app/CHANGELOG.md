@@ -1,5 +1,26 @@
 # example-app
 
+## 0.2.2
+
+### Patch Changes
+
+- Updated dependencies [1722cb53c]
+- Updated dependencies [1722cb53c]
+- Updated dependencies [17a9f48f6]
+- Updated dependencies [4040d4fcb]
+- Updated dependencies [259d848ee]
+- Updated dependencies [902340451]
+  - @backstage/cli@0.3.0
+  - @backstage/core@0.3.1
+  - @backstage/plugin-cost-insights@0.4.0
+  - @backstage/plugin-lighthouse@0.2.2
+  - @backstage/plugin-rollbar@0.2.2
+  - @backstage/plugin-sentry@0.2.2
+  - @backstage/plugin-techdocs@0.2.2
+  - @backstage/plugin-user-settings@0.2.2
+  - @backstage/test-utils@0.1.3
+  - @backstage/plugin-catalog@0.2.2
+
 ## 0.2.1
 
 ### Patch Changes
